@@ -26,7 +26,7 @@
 <!-- Image definitions -->
 [korea-university-image]: https://img.shields.io/badge/Institution-Korea%20University-red
 [korea-university-cs-url]: http://cs.korea.ac.kr
-[course-cose331]: https://img.shields.io/badge/Course-Computer%20Graphics-brightgreen
+[course-cose341]: https://img.shields.io/badge/Course-Operating%20Systems-brightgreen
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
 [grade-tba]: https://img.shields.io/badge/Grade-TBA-lightgrey
