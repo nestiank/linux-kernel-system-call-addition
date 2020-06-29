@@ -1,21 +1,25 @@
 # 리눅스 커널 시스템 콜 추가
 
-![Language][language-c]
-![Platform][platform-linux]
+![language-c][language-c]
+![platform-linux][platform-linux]
 <br>
-![Participants][participants-solo]
+![participants-solo][participants-solo]
 <br>
-[![School Project][korea-university-image]][korea-university-cs-url]
-![Course][course-cose341]
-![Grade][grade-tba]
+[![institution-korea-university][korea-university-image]][korea-university-cs-url]
+![course-operating-system][course-cose341]
+![grade-tba][grade-tba]
 
 > 리눅스 커널에 시스템 콜을 추가하는 프로젝트입니다.
 
-## 스크린샷
+### 스크린샷
 
-(준비 중)
+<img src="documents/screenshot.png" height="400px">
 
-## 라이선스 및 공동체 수정
+### 개발 기간
+
+2020년 4월
+
+### 라이선스 및 공동체 수정
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
