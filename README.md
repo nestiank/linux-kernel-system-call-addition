@@ -7,7 +7,7 @@
 <br>
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-operating-system][course-cose341]
-![grade-tba][grade-tba]
+![grade-a+][grade-a+]
 
 > 리눅스 커널에 시스템 콜을 추가하는 프로젝트입니다.
 
@@ -33,5 +33,5 @@
 [course-cose341]: https://img.shields.io/badge/Course-Operating%20Systems-brightgreen
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
-[grade-tba]: https://img.shields.io/badge/Grade-TBA-lightgrey
+[grade-a+]: https://img.shields.io/badge/Grade-A+-lightgrey
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
