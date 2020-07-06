@@ -33,5 +33,5 @@
 [course-cose341]: https://img.shields.io/badge/Course-Operating%20Systems-brightgreen
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
-[grade-a+]: https://img.shields.io/badge/Grade-A+-lightgrey
+[grade-a+]: https://img.shields.io/badge/Grade-A+-yellow
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
