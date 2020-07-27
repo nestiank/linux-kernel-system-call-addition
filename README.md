@@ -9,13 +9,13 @@
 ![course-operating-system][course-cose341]
 ![grade-a+][grade-a+]
 
-> 리눅스 커널에 시스템 콜을 추가하는 프로젝트입니다.
+> 리눅스 커널에 스택의 기능을 하는 시스템 콜을 추가하는 프로젝트입니다.
 
 ### 스크린샷
 
 <img src="documents/screenshot.png" height="400px">
 
-### 개발 기간
+### 작업 기간
 
 2020년 4월
 
