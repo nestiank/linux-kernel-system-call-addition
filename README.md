@@ -13,7 +13,7 @@
 
 ### 스크린샷
 
-<img src="static/screenshot.png" height="400px">
+<img src="/static/screenshot.png" height="400px">
 
 ### 개발 기간
 
